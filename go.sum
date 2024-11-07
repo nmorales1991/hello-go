@@ -1,2 +1,4 @@
 github.com/nmorales1991/greetings-go v0.0.0-20230726031758-1b1edad1f7f6 h1:RdXPhBh3OFmcZcqclikckLC+68Si+p+4KAKaFr5CjSw=
 github.com/nmorales1991/greetings-go v0.0.0-20230726031758-1b1edad1f7f6/go.mod h1:Vcp3Wb2IvzCVREauchrR6SlZf+xaUUXmsan9VVGftHs=
+github.com/nmorales1991/greetings-go v0.0.0-20241107021508-26f60ecd1fce h1:lbbYmVJYZmI55vauETQY1xkfB6QiuZ7I6JAFuEepl1o=
+github.com/nmorales1991/greetings-go v0.0.0-20241107021508-26f60ecd1fce/go.mod h1:l15i7AxmNL2e9PBh1RGyr8YZ+S3a/vLUzO/LRCqLnAU=
